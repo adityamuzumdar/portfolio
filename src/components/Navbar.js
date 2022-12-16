@@ -10,7 +10,7 @@ function Navbar() {
           <a href="#skills" className="mr-5 text-l ml-4 hover:text-white">
             Skills
           </a>
-          <a href="#Projects" className="mr-5 text-l hover:text-white">
+          <a href="#projects" className="mr-5 text-l hover:text-white">
             Projects
           </a>
           <a href="#Blog" className="mr-5 text-l hover:text-white">
